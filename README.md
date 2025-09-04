@@ -1,7 +1,7 @@
 # cmsc240-mod-4
 Module #4 - String Operation
 
-**Note:** The [output executable](string_op_KEY) file is given as a reference. You can use this to check what the output of YOUR file should be!
+**Note:** The [output executable](string_op_KEY) file is given as a reference. You can use this to check what the output of YOUR file should be! Run it with `./string_op_KEY`. Be sure to name your code's output executable file something different!
 
 ### Requirements
 
